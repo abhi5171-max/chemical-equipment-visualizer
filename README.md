@@ -15,7 +15,8 @@ A hybrid Web + Desktop system with a shared secure Django API.
 
 ### 1. Web Version (React)
 The web interface features interactive **Chart.js** dashboards with Radar, Bar, and Multi-axis Line charts.
-- **Run**: `npm start`
+- **Run**: `npm install`
+- **Run**: `npm run dev`
 
 ### 2. Desktop Version (PyQt5)
 The desktop application is a high-performance native tool using **Matplotlib** for scientific-grade plotting.
