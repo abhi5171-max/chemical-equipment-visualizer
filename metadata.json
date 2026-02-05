@@ -1,0 +1,7 @@
+{
+  "name": "Chemical Equipment Visualizer",
+  "description": "A hybrid web and desktop application for visualizing chemical equipment parameters from CSV files, featuring real-time analytics, charts, and PDF report generation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
