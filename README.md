@@ -34,7 +34,6 @@ The desktop application is a high-performance native tool using **Matplotlib** f
 ## Technical Architecture
 - **Backend**: Django REST Framework + Pandas + ReportLab.
 - **Analytics**: Real-time summary statistics calculated per upload.
-- **AI Integration**: Gemini 3 Flash performs automated fleet health diagnosis.
 - **Persistence**: SQLite keeps the 5 most recent production snapshots.
 
 ## Database Schema
